@@ -1,10 +1,5 @@
 package org.example.tasks;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-
 public class Task_121 {
     public int maxProfit(int[] prices) {
         int profit = 0;
